@@ -9,8 +9,6 @@
   * organize your tests into appropriate describe/test blocks for test output readability
 
 #### Feature Tasks  
-  * implement a Stack constructor
-    * implement `push(value)`, `pop()`, and `peek()` methods on the Stack class by utilizing methods from the Linked List class you already defined in Lab 5, or in your `data-structures-and-algorithms` repo. 
   * implement a Queue constructor
     * implement `enqueue(value)`, `dequeue()`, and `peek()` methods on the Queue class by utilizing methods from the Linked List class you already defined in Lab 5, or in your `data-structures-and-algorithms` repo. 
   
